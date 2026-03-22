@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://mogai.io/screenshots/welcome.png" alt="Mog.AI Banner" width="280"/>
+  ![mogai1](https://github.com/user-attachments/assets/f1c350f6-368d-4093-b33c-4619dcfe4241)
+  ![mogai2](https://github.com/user-attachments/assets/46414c0c-55f1-4557-a504-2f952ca9a34b)
 </p>
+
 
 <h1 align="center">🏋️ Mog.AI — AI Workout Plan & Physique</h1>
 
